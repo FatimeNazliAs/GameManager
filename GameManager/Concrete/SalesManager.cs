@@ -19,7 +19,10 @@ namespace GameManager.Concrete
                
             Console.WriteLine("Price with discount is "+ sumPrice);
             
-                   
+             
+            
+
+
         
         }
         public void Sales( Gamer gamer, Game game)
